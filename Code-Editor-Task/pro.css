@@ -1,0 +1,43 @@
+body{
+    text-align: center;
+    background-color: black;
+}
+.mainarea{
+    display: flex;
+    justify-content:center;
+}
+.editors{
+    background-color:burlywood;
+    /* background-image: linear-gradient(to left ,orange,blue,green,yellow); */
+    
+    width: 100%;
+    
+    
+}
+.span{
+
+    background-color: wheat;
+}
+#html,#css,#js{
+    color:black;
+    text-shadow: 5px 5px 5px red;
+}
+
+
+textarea{
+    width: 100%;
+    min-height: 250px;
+    overflow: scroll;
+    font-size: x-large;
+    background-color:white;
+}
+
+.output{
+    color: green;
+}
+iframe{
+    width: 100%;
+    height: 10em;
+    background-color: aqua;
+    
+}

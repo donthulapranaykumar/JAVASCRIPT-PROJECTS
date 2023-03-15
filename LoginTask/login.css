@@ -1,0 +1,74 @@
+body{
+    background-color:black;
+    background-size: 100%;
+    /* background-image: url(4k_windows_10_login_screen_wallpaper_by_goobnut_d9ga7lz-fullview.jpg); */
+}
+h1::first-line{
+    font-size: 300%;
+    font-style: oblique;
+    color: chartreuse;
+}
+h1{
+    text-align: center;
+    text-shadow: 5px 20px 5px blue;  
+}
+.d1{
+    position: absolute;
+    left:500px;
+    bottom:250px;
+    top:250px;  
+}
+.d2{
+    position: absolute;
+    
+    left:500px;
+    bottom:250px;
+}
+.d3{
+     position: absolute;
+    left:540px;
+    bottom:160px;
+}
+#S1{
+    width: 100px;
+    height: 30px;
+    margin-left: 30px;
+    background-color: green;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    color: white;
+    -webkit-box-reflect: below 1px linear-gradient(transparent,rgba(255, 225, 226, 0.5));
+}
+#email{
+    height: 20px;
+    width: 250px;
+}
+#pwd{
+    height: 20px;
+    width: 250px;
+}
+#email1{
+    width:17px ;
+    height:20px ;
+    position: absolute;
+    left: 235px;
+    top:3px;
+}
+#eyeopen,#eyeclose{
+    width:17px ;
+    height:20px ;
+    position: absolute;
+    left: 235px;
+    top:3px;
+}
+#id1{
+    position:absolute;
+    width: 200px;
+    height: 50px;
+    background-color: aqua;
+    line-height: 50px;
+    left:520px;
+    top:450px;
+    color: red;
+
+}

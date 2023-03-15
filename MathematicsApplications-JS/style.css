@@ -1,0 +1,217 @@
+body{
+    background-size: 100%;  
+    background-image: url(HD-wallpaper-trigonometry-formulas-equation-math.jpg);
+    
+}
+.head{
+     font-family: fantasy;  
+     font-variant:inherit;  
+    font-style: oblique;
+    text-shadow: 10px 3px 4px yellow;
+    height:0%;
+    width: 100%;
+    font-size: 550%;
+    text-align: center;
+    color:black;
+    margin-top:-100px;
+}
+.form1{
+    font-style: oblique;
+    font-size:medium;
+    color:whitesmoke;
+    text-shadow:10px 10px 10px purple ;
+    font-weight: 10;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    height:0px;
+    width: 40%;
+    
+    margin-top: -70px;
+    margin-left: 100px;
+    border-radius: 10px;
+    color: brown;
+    position: absolute;
+    
+}
+#id5{
+
+    margin-left: 5px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-weight: 100;
+    border-radius: 10px;
+    box-shadow: 7px 7px 5px violet;
+    border-color:brown;
+}
+
+
+#a1{
+
+    margin-left: 150px;
+    margin-top: 20px;
+    /* font-weight: 100; */
+    border-radius: 10px;
+    box-shadow: 7px 7px 5px violet;
+    border-color:brown;
+    
+    
+    
+}
+
+
+#a2{
+
+    margin-left: 310px;
+    font-weight: 100;
+    border-radius: 10px;
+    box-shadow: 7px 7px 5px violet;
+    border-color:brown;
+}
+
+#a3{
+
+    margin-left: 120px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    font-weight: 100;
+    border-radius: 10px;
+    box-shadow: 7px 7px 5px violet;
+    border-color:brown;
+}
+#a4{
+
+    margin-left: 250px;
+    margin-bottom: 30px;
+    margin-top:0px;
+    font-weight: 100;
+    border-radius: 10px;
+    box-shadow: 7px 7px 5px violet;
+    border-color:brown;
+}
+#a5{
+
+    margin-left: 150px;
+    /* font-weight: 100; */
+    margin-bottom: 0px;
+    border-radius: 10px;
+    box-shadow: 7px 7px 5px violet;
+    border-color:brown;
+}
+#a6{
+
+    margin-left: 250px;
+    font-weight: 100;
+    margin-top: 30px;
+    border-radius: 10px;
+    box-shadow: 7px 7px 5px violet;
+    border-color:brown;
+}
+#SS{
+
+    margin-left: 30px;
+    font-weight: 100;
+    margin-top: 20px;
+    border-radius: 10px;
+    box-shadow: 7px 7px 5px violet;
+    border-color:brown;
+    width: 300px;
+}
+  #SS:hover{
+    background-color:purple;
+   }
+
+.form2{
+    font-style: oblique;
+    font-size:medium;
+    color:whitesmoke;
+    text-shadow:10px 10px 10px purple ;
+    font-weight: 10;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-top: -70px;
+    margin-left: 600px;
+    position: absolute;
+    color: brown;
+    
+    
+}
+ 
+#id1{
+
+    margin-left:30px;
+    margin-top: 0px;
+    font-weight: 100;
+    border-radius: 10px;
+    box-shadow: 7px 7px 5px violet;
+    border-color:brown;
+    
+}
+#id2{
+
+    margin-left: 20px;
+    font-weight: 100;
+    border-radius: 10px;
+    box-shadow: 7px 7px 5px violet;
+    border-color:brown;
+}
+#b1{
+
+    margin-left: 130px;
+    margin-top: 20px;
+    font-weight: 100;
+    border-radius: 10px;
+    box-shadow: 7px 7px 5px violet;
+    border-color:brown;
+}
+#b2{
+
+    margin-left: 270px;
+    font-weight: 100;
+    border-radius: 10px;
+    box-shadow: 7px 7px 5px violet;
+    border-color:brown;
+}
+#b3{
+
+    margin-left: 100px;
+    font-weight: 100;
+    border-radius: 10px;
+    box-shadow: 7px 7px 5px violet;
+    border-color:brown;
+}
+#b4{
+
+    margin-left: 250px;
+    font-weight: 100;
+    border-radius: 10px;
+    box-shadow: 7px 7px 5px violet;
+    border-color:brown;
+}
+#b5{
+
+    margin-left: 170px;
+    margin-top: 30px;
+    border-radius: 10px;
+    box-shadow: 7px 7px 5px violet;
+    border-color:brown;
+}
+#ss{
+
+    margin-left: 20px;
+    margin-top: 70px;
+    font-weight: 100;
+    border-radius: 10px;
+    box-shadow: 7px 7px 5px violet;
+    border-color:brown;
+    width: 300px;
+    
+}
+#ss:hover{
+    background-color:purple;
+}
+
+
+
+  input:hover{
+    background-color:purple;
+  }
+
+
